@@ -1,0 +1,28 @@
+#BABY CRY DETECTION AND ALERTING
+
+#INTRODUCTION
+As we all know that it is very inconvenient for parents to constantly watch over their new born baby while doing their work. Besides that, we know that every house is of different
+shape and size. Some houses are large and some other are two storied. These days most of the new born babies are kept in a separate room and in their own crib. Babies cry to 
+communicate their needs, whether they are hungry or need a diaper change.
+
+The main objective of this project is to let parents stay free of worry and manage both their personal and professional life well. This IOT (internet of things) based baby 
+monitoring device can alert parents and caregivers whenever their baby is disturbed or awakened from sleep while they are out of immediate hearing distance from the baby. 
+
+A sound sensor has been used to detect the sound levels of the baby and a PIR sensor (passive infrared sensor) has been used to check the availability of parents/guardians at the 
+house. If there is no one at home and the baby starts crying, a notification is sent to the parent’s phone indicating the absence of caregiver at home. Else, an alarm system also 
+gets activated to alert the caregiver who might be inside the house but out of hearing distance from the baby.
+
+#Existing System
+There are some devices available in the market. But does not prove to be effortless, manageable and straightforward. For example,
+1.	Baby Crying Detector on Samsung Galaxy S5.
+2.	Snowman Wireless Baby Cry Detector Monitor.
+3.	Foscam Baby Monitor Camera.
+These are very expensive and must be placed within 1 meter distance from the baby. As the mobile phone emits radiation, it could affect baby’s health.
+
+#Proposed System
+To overcome all the drawbacks of the existing system we go for an IOT based device. This system alerts the parent through a notification message and depending on the situation 
+it activates the alarm.
+•	It does not affect child’s health 
+•	It is cost effective
+•	It is highly useful and
+•	It is easy to use
