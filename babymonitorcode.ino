@@ -4,7 +4,7 @@ int inputPin = 2;        // choose the input pin (for PIR sensor)
 int buzzerPin = 9;      //choose the input pin (for buzzer)
 int val = 0;           //variable to read the value from PIR sensor
 SoftwareSerial sim(10, 11);  //10-Rx,11-Tx used for communication
-String number = "+918328110280";       // mobile number to which alert message has to be sent
+String number = "+911234567890";       // mobile number to which alert message has to be sent
 void setup() {
   delay(7000);                       //delay for 7 seconds to make sure the modules get the signal
   pinMode(inputPin, INPUT);         // declare sensor as input
